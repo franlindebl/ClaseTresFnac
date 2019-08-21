@@ -1,0 +1,12 @@
+.navigation-bar {
+  background: gray;
+}
+
+.navigation-bar a {
+  color: black;
+  padding: 10px;
+}
+
+.navigation-bar a.currentPage {
+  color: red;
+}
